@@ -4,5 +4,6 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+  ttt_board = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
 end
 display_board
